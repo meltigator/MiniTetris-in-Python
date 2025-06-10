@@ -7,8 +7,11 @@ This mini-project is a personal tribute to minimalist development—no framework
 🔹 Features: 
 
 ✅ Runs in the terminal on any OS with Python 3 
+
 ✅ Clean, grid-based logic with falling tetrominoes 
+
 ✅ Keyboard controls via raw input 
+
 ✅ Open-source and ready to tweak on GitHub
 
 💡 Perfect for anyone who wants to explore console gaming mechanics, code efficiency, or just relax with retro vibes.
