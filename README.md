@@ -14,8 +14,11 @@ This mini-project is a personal tribute to minimalist development—no framework
 
 ✅ Open-source and ready to tweak on GitHub
 
+
 💡 Perfect for anyone who wants to explore console gaming mechanics, code efficiency, or just relax with retro vibes.
 
+
 📢 Feedback, forks, and gameplay tweaks welcome! What’s your take on minimalist game development?
+
 
 #Python #GameDev #RetroGames #OpenSource #ConsoleGames #CodingChallenge #Minimalism
