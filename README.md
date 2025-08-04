@@ -1,4 +1,4 @@
-# ___MiniTetris in Python – Retro Console Power__
+# ___MiniTetris in Python – Retro Console Power___
 
 What happens when you mix Python’s simplicity with a classic like Tetris? You get a clean, console-based MiniTetris that brings pure nostalgia in under low lines of code.
 
